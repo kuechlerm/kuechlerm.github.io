@@ -1,2 +1,3 @@
-# kuechlerm.github.io
-Repo for GitHub Pages
+# Kuechler Code
+
+Willkommen auf meinem Blog

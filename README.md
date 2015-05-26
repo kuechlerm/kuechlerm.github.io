@@ -1,3 +1,1 @@
-# Kuechler Code
-
-Willkommen auf meinem Blog
+# Kuechler Code ReadMe
